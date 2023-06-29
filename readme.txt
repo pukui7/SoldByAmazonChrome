@@ -1,3 +1,3 @@
 this is a very basic extension for Chrome.  It appends some text to end to the active tab's URL.  If it's an Amazon search, the results will be for products shipped and sold by Amazon only.  For years, we were able to do this on the left hand filter.  Recently, the option seems gone.
 
-To install, download the zip file, go to extension manager in Chrome and enable developer mode, and then load this extension by clicking "Load unpacked".
+To install, download the "URL APPENDER" zip file, go to extension manager in Chrome and enable developer mode, and then load this extension by clicking "Load unpacked".
